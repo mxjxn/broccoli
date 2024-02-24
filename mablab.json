@@ -1,0 +1,22 @@
+{
+        "object": "user",
+        "fid": 295725,
+        "custody_address": "0x01a87746a486185a303817c3251d2692c6a651d6",
+        "username": "mablab",
+        "display_name": "MABLAB🎩",
+        "pfp_url": "https://i.imgur.com/onOfyOl.jpg",
+        "profile": {
+          "bio": {
+            "text": "Art and architecture duo\nUAL csmarchitecture stadelschuleacademy gerritrietveldacademie\nmablabart.com\ntwitter.com/MABLABART\nMINT IS LIVE mablabart.com/piranesi/"
+          }
+        },
+        "follower_count": 689,
+        "following_count": 4922,
+        "verifications": [
+          "0x389d43178ad6076521c7f2ca19beec806ef00d2a"
+        ],
+        "active_status": "active",
+        "pfp": {
+          "url": "https://i.imgur.com/onOfyOl.jpg"
+        }
+      }
